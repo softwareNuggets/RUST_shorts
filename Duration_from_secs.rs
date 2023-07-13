@@ -1,6 +1,6 @@
-# GitHub Account
-# https://github.com/softwareNuggets/Rust_shorts/
-# Duration_from_secs.rs
+// GitHub Account
+// https://github.com/softwareNuggets/Rust_shorts/
+// Duration_from_secs.rs
 
 use std::time::{Duration};
 use std::thread;
